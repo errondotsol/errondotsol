@@ -3,7 +3,7 @@
 <!-- ───────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:000000&height=200&section=header&text=Void%20⚡%20I%20Don't%20Code%2C%20I%20Just%20Vibe&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=35&desc=Developer%20Wannabe%20&descAlignY=55&descAlign=50" alt="Void Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:000000&height=200&section=header&text=Void%20⚡%20I%20Don't%20Code%2C%20I%20Just%20Vibe&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20Wannabe%20&descAlignY=55&descAlign=50" alt="Void Banner">
 </p>
 
 <p align="center">
@@ -43,5 +43,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:7F00FF&height=120&section=footer" alt="Footer Wave">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00BFFF&height=120&section=footer" alt="Footer Wave">
 </p>
