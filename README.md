@@ -3,7 +3,7 @@
 <!-- ───────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:000000&height=200&section=header&text=Voidgoesbrr%20⚡%20I%20Don't%20Code%2C%20I%20Just%20Vibe&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=35&desc=DeFi%20Degen%20%7C%20Solana%20LP%20Enthusiast%20%7C%20Bismillah%20DAO&descAlignY=55&descAlign=50" alt="Voidgoesbrr Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:000000&height=200&section=header&text=Void%20⚡%20I%20Don't%20Code%2C%20I%20Just%20Vibe&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=35&desc=Developer%20Wannabe%20&descAlignY=55&descAlign=50" alt="Void Banner">
 </p>
 
 <p align="center">
